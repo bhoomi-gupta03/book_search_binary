@@ -1,0 +1,5 @@
+title,Author,ISBN,Year
+1984,George Orwell,9780451524935,1949
+The Alchemist,Paulo Coelho,9780061122415,1988
+The Great Gatsby,F. Scott Fitzgerald,9780743273565,1925
+To Kill a Mockingbird,Harper Lee,9780060935467,1960
