@@ -41,3 +41,36 @@ title,Author,ISBN,Year
 The Alchemist,Paulo Coelho,9780061122415,1988
 The Great Gatsby,F. Scott Fitzgerald,9780743273565,1925
 To Kill a Mockingbird,Harper Lee,9780060935467,1960
+
+🧠 Why Binary Search?
+Binary Search is one of the most efficient searching algorithms with a time complexity of O(log n). This project demonstrates its power in real-world data like book databases.
+
+🎮 How to Run
+Clone the repository
+
+bash
+Copy code
+git clone https://github.com/bhoomi-gupta03/book-finder-cli.git
+cd book-finder-cli
+Make sure you have Python installed.
+
+Run the CLI App
+
+bash
+Copy code
+python main.py
+Interact with the menu and search books!
+
+🔗 Live Demo (Optional)
+If you host a demo or upload video/GIFs later, link it here.
+
+👩‍💻 Author
+Bhoomi Gupta
+Student | Python & Data Science Enthusiast
+📍 Technocrats Institute of Technology
+📫 LinkedIn
+
+🌟 Contribute
+Want to improve this project? Open issues or submit pull requests — contributions are welcome!
+
+
